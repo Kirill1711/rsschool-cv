@@ -1,0 +1,94 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: azure;
+}
+.header {
+    margin-left: 50px;
+}
+.figure-foto{
+    width: 254px;
+    height: 236px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.my-name{
+    color: black;
+    font-size: 28px;
+    font-weight: bolder;
+    text-align:center;
+}
+.text-contact{
+    color: black;
+    font-size: 18px;
+    font-weight: bolder;
+    text-decoration: none;
+}
+.contacts-list{
+    list-style-type: none;
+}
+.contacts-title{
+    color: black;
+    font-size: 24px;
+    font-weight: bolder;
+    text-align:center;
+}
+.contact-link{
+    text-decoration: none;
+    color: orangered;
+}
+.main{
+    margin-left: 50px;
+}
+.title-about{
+    color: black;
+    font-size: 24px;
+    font-weight: bolder;
+    text-align:center;
+}
+.text-about{
+    color: black;
+    font-size: 18px;
+}
+.title-skill{
+    color: black;
+    font-size: 24px;
+    font-weight: bolder;
+    text-align:center;
+}
+.skill-list{
+    list-style-type: none;
+}
+.skill-item{
+    font-weight: bolder;
+    color: black;
+    font-size: 20px;
+}
+.title-soft-skill{
+    color: black;
+    font-size: 24px;
+    font-weight: bolder;
+    text-align:center;
+}
+.soft-skill-list{
+    list-style-type: none;
+}
+.soft-skill-item{
+    font-weight: bolder;
+    color: black;
+    font-size: 20px;
+}
+.language-title{
+    color: black;
+    font-size: 24px;
+    font-weight: bolder;
+    text-align:center;
+}
+.language-list{
+    list-style-type: none;
+}
+.language-item{
+    color: black;
+    font-size: 20px; 
+}
