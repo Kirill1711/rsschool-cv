@@ -2,4 +2,4 @@
 
 
 
-https://Kirill1711.github.io/rsschool-cv-html/
+https://Kirill1711.github.io/rsschool-cv/
